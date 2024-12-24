@@ -189,7 +189,7 @@ text-align: center;
 
 .midle-img{
     padding: 120px 0px;
-    background: url("cta-bg.jpg") center/cover no-repeat;
+    background: url("../assets/images/cta-bg.jpg") center/cover no-repeat;
     text-align: center;
 }
 
@@ -320,7 +320,7 @@ margin-left: 120px;
 
 .schedule{
     text-align: center;
-    background: url("schedule-bg.jpg") center/cover no-repeat;
+    background: url("../assets/images/schedule-bg.jpg") center/cover no-repeat;
     padding:  0px 0px 140px 0px;
     height: 100vh;   
 }
@@ -487,7 +487,7 @@ iframe{
 }
 .cont-form{
 padding: 80px;
-background: url("contact-bg.jpg") center/cover no-repeat;
+background: url("../assets/images/contact-bg.jpg") center/cover no-repeat;
 width: 50vw;
 }
 
